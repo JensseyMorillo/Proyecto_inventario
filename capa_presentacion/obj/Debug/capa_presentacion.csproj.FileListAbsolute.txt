@@ -1,0 +1,66 @@
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\capa_datos.dll
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\capa_entidad.dll
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\capa_negocio.dll
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\itextsharp.dll
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\itextsharp.xmlworker.dll
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\capa_datos.pdb
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\capa_entidad.pdb
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\capa_negocio.pdb
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\itextsharp.xml
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.csproj.AssemblyReference.cache
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.csproj.ResolveComReference.cache
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.Form1.resources
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FormCliente.resources
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FormFacturacion.resources
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FormInvent.resources
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FormPrincipal.resources
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FormRegistro.resources
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FrmVistaCliente.resources
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FrmVistaVentas.resources
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.Properties.Resources.resources
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.csproj.GenerateResource.cache
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.csproj.CoreCompileInputs.cache
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.csproj.CopyComplete
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\SistemaVentas.exe.config
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\SistemaVentas.exe.manifest
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\SistemaVentas.application
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\SistemaVentas.exe
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\bin\Debug\SistemaVentas.pdb
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\SistemaVentas.exe.manifest
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\SistemaVentas.application
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\SistemaVentas.exe
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\SistemaVentas.pdb
+D:\ransel\source\source\repos\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.VistaFacturacion.resources
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\SistemaVentas.exe.config
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\SistemaVentas.exe.manifest
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\SistemaVentas.application
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\SistemaVentas.exe
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\SistemaVentas.pdb
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\capa_datos.dll
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\capa_entidad.dll
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\capa_negocio.dll
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\itextsharp.dll
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\capa_datos.pdb
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\capa_entidad.pdb
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\capa_negocio.pdb
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\bin\Debug\itextsharp.xml
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.csproj.ResolveComReference.cache
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.Form1.resources
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FormCliente.resources
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FormFacturacion.resources
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FormInvent.resources
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FormPrincipal.resources
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FormRegistro.resources
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FrmVistaCliente.resources
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.FrmVistaVentas.resources
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.Properties.Resources.resources
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.VistaFacturacion.resources
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.csproj.GenerateResource.cache
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\SistemaVentas.exe.manifest
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\SistemaVentas.application
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\capa_presentacion.csproj.CopyComplete
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\SistemaVentas.exe
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_presentacion\obj\Debug\SistemaVentas.pdb

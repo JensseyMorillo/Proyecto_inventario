@@ -1,0 +1,33 @@
+C:\Users\ransel\source\repos\proyecto_inventario\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\ransel\source\repos\proyecto_inventario\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\ransel\source\repos\proyecto_inventario\capa_negocio\bin\Debug\capa_datos.dll
+C:\Users\ransel\source\repos\proyecto_inventario\capa_negocio\bin\Debug\capa_entidad.dll
+C:\Users\ransel\source\repos\proyecto_inventario\capa_negocio\bin\Debug\capa_datos.pdb
+C:\Users\ransel\source\repos\proyecto_inventario\capa_negocio\bin\Debug\capa_entidad.pdb
+C:\Users\ransel\source\repos\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.csproj.AssemblyReference.cache
+C:\Users\ransel\source\repos\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\ransel\source\repos\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.csproj.CopyComplete
+C:\Users\ransel\source\repos\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\ransel\source\repos\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.pdb
+D:\ransel\source\source\repos\proyecto_inventario\capa_negocio\bin\Debug\capa_negocio.dll
+D:\ransel\source\source\repos\proyecto_inventario\capa_negocio\bin\Debug\capa_negocio.pdb
+D:\ransel\source\source\repos\proyecto_inventario\capa_negocio\bin\Debug\capa_datos.dll
+D:\ransel\source\source\repos\proyecto_inventario\capa_negocio\bin\Debug\capa_entidad.dll
+D:\ransel\source\source\repos\proyecto_inventario\capa_negocio\bin\Debug\capa_datos.pdb
+D:\ransel\source\source\repos\proyecto_inventario\capa_negocio\bin\Debug\capa_entidad.pdb
+D:\ransel\source\source\repos\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.csproj.AssemblyReference.cache
+D:\ransel\source\source\repos\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.csproj.CoreCompileInputs.cache
+D:\ransel\source\source\repos\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.csproj.CopyComplete
+D:\ransel\source\source\repos\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.dll
+D:\ransel\source\source\repos\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.csproj.AssemblyReference.cache
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_negocio\bin\Debug\capa_datos.dll
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_negocio\bin\Debug\capa_entidad.dll
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_negocio\bin\Debug\capa_datos.pdb
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_negocio\bin\Debug\capa_entidad.pdb
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_negocio\obj\Debug\capa_negocio.csproj.CopyComplete

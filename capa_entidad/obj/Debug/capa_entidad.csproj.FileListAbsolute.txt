@@ -1,0 +1,17 @@
+C:\Users\ransel\source\repos\proyecto_inventario\capa_entidad\bin\Debug\capa_entidad.dll
+C:\Users\ransel\source\repos\proyecto_inventario\capa_entidad\bin\Debug\capa_entidad.pdb
+C:\Users\ransel\source\repos\proyecto_inventario\capa_entidad\obj\Debug\capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\ransel\source\repos\proyecto_inventario\capa_entidad\obj\Debug\capa_entidad.dll
+C:\Users\ransel\source\repos\proyecto_inventario\capa_entidad\obj\Debug\capa_entidad.pdb
+D:\ransel\source\source\repos\proyecto_inventario\capa_entidad\bin\Debug\capa_entidad.dll
+D:\ransel\source\source\repos\proyecto_inventario\capa_entidad\bin\Debug\capa_entidad.pdb
+D:\ransel\source\source\repos\proyecto_inventario\capa_entidad\obj\Debug\capa_entidad.csproj.AssemblyReference.cache
+D:\ransel\source\source\repos\proyecto_inventario\capa_entidad\obj\Debug\capa_entidad.csproj.CoreCompileInputs.cache
+D:\ransel\source\source\repos\proyecto_inventario\capa_entidad\obj\Debug\capa_entidad.dll
+D:\ransel\source\source\repos\proyecto_inventario\capa_entidad\obj\Debug\capa_entidad.pdb
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_entidad\bin\Debug\capa_entidad.dll
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_entidad\bin\Debug\capa_entidad.pdb
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_entidad\obj\Debug\capa_entidad.csproj.AssemblyReference.cache
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_entidad\obj\Debug\capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_entidad\obj\Debug\capa_entidad.dll
+C:\Users\Jenssey Murillo\Desktop\proyecto_inventario\capa_entidad\obj\Debug\capa_entidad.pdb
